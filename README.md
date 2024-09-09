@@ -35,6 +35,8 @@ optional parameter:
 --predict_save_path
 ```
 
+## How to cite:
+2. [1] [**Yang Gao, Sajjad Foroughi, Zhuangzhuang Ma, Sanyi Yuan, Lizhi Xiao, Branko Bijeljic, Martin J. Blunt. "Gradient Information Enhanced Image Segmentation and Automatic In Situ Contact Angle Measurement Applied to Images of Multiphase Flow in Porous Media." Water Resources Reseach (2024).**]([https://doi.org/10.1007/s11242-022-01868-3)](https://doi.org/10.1029/2023WR036869)
 
-
+By citing our work, you contribute to the recognition of our research efforts and help others understand the foundation of this code.
 
